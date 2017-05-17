@@ -146,6 +146,26 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="C:\Users\bahadır\Desktop\Hashing\f-prolab2.2-master\BolenkalanAyrik.cpp" />
+    <ClCompile Include="C:\Users\bahadır\Desktop\Hashing\f-prolab2.2-master\BolenkalanLineer.cpp" />
+    <ClCompile Include="C:\Users\bahadır\Desktop\Hashing\f-prolab2.2-master\KareortasiAyrik.cpp" />
+    <ClCompile Include="C:\Users\bahadır\Desktop\Hashing\f-prolab2.2-master\KareortasiLineer.cpp" />
+    <ClCompile Include="C:\Users\bahadır\Desktop\Hashing\f-prolab2.2-master\KatlamaAyrik.cpp" />
+    <ClCompile Include="C:\Users\bahadır\Desktop\Hashing\f-prolab2.2-master\KatlamaLineer.cpp" />
+    <ClCompile Include="C:\Users\bahadır\Desktop\Hashing\f-prolab2.2-master\Liste.cpp" />
+    <ClCompile Include="C:\Users\bahadır\Desktop\Hashing\f-prolab2.2-master\main.cpp" />
+    <ClCompile Include="C:\Users\bahadır\Desktop\Hashing\f-prolab2.2-master\NormalTablo.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\bahadır\Desktop\Hashing\f-prolab2.2-master\BolenkalanAyrik.h" />
+    <ClInclude Include="C:\Users\bahadır\Desktop\Hashing\f-prolab2.2-master\BolenkalanLineer.h" />
+    <ClInclude Include="C:\Users\bahadır\Desktop\Hashing\f-prolab2.2-master\KareortasiAyrik.h" />
+    <ClInclude Include="C:\Users\bahadır\Desktop\Hashing\f-prolab2.2-master\KareortasiLineer.h" />
+    <ClInclude Include="C:\Users\bahadır\Desktop\Hashing\f-prolab2.2-master\KatlamaAyrik.h" />
+    <ClInclude Include="C:\Users\bahadır\Desktop\Hashing\f-prolab2.2-master\KatlamaLineer.h" />
+    <ClInclude Include="C:\Users\bahadır\Desktop\Hashing\f-prolab2.2-master\Kayit.h" />
+    <ClInclude Include="C:\Users\bahadır\Desktop\Hashing\f-prolab2.2-master\Liste.h" />
+    <ClInclude Include="C:\Users\bahadır\Desktop\Hashing\f-prolab2.2-master\NormalTablo.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
